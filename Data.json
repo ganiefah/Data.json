@@ -139,5 +139,27 @@
       "name":"Figma",
       "image":"https://i.postimg.cc/T2BRmm9Y/figma.png"     
     }
+  ],
+  "technical":[
+    {
+      "id":"1",
+      "skills":"Analytical Skills"
+    },
+    {
+      "id":"2",
+      "skills":"Problem Solving Skills"
+    },
+    {
+      "id":"3",
+      "skills":"Time Management Skills"
+    },
+    {
+      "id":"4",
+      "skills":"Leadership Skills"
+    },
+    {
+      "id":"5",
+      "skills":"Communication Skills"
+    }
   ]
 }
