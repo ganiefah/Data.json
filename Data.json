@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "E-commerce Website",
-      "description": "Rooter Retreat ",
+      "description": "Rooter Retreat is a e-commerce website I built using Javascript, HTML, CSS and Bootstrap.",
       "image": "https://i.postimg.cc/Jhvxmv3x/Screenshot-2023-07-01-094227.png",
       "github": "https://github.com/ganiefah/endofmodule-js.git",
       "netlify": "https://ganiefah-endofmodule-js.netlify.app/"
@@ -11,7 +11,7 @@
     {
       "id": 2,
       "name": "Temperature Converter",
-      "description": "Temp Converter",
+      "description": "This project is a temperature converter I made by using Javascript, HTML, CSS and Bootstrap. It converts any number entered into either Fahrenheit or Degress Celsuis.",
       "image": "https://i.postimg.cc/x8RF0g1d/Screenshot-2023-07-01-095131.png",
       "github": "https://github.com/ganiefah/tempconverter.git",
       "netlify": "https://javascript-temperatureconverter.netlify.app/"
@@ -19,7 +19,7 @@
     {
       "id": 3,
       "name": "BMI Converter",
-      "description": "BMI Converter",
+      "description": "This project is a BMI Calculator I made by using Javascript, HTML, CSS and Bootstrap. It takes your weight and height and it calculates your BMI(Body Mass Index).",
       "image": "https://i.postimg.cc/HnpBP591/Screenshot-2023-07-01-095054.png",
       "github": "https://github.com/ganiefah/bmi_calculator.git",
       "netlify": "https://ganiefahs-bmi-calculator.netlify.app/"
@@ -27,15 +27,15 @@
     {
       "id": 4,
       "name": "Calculator",
-      "description": "Calculator",
+      "description": "This project is a Calculator that is fully functional and it was built using Javascript, HTML, CSS and Bootstrap.",
       "image": "https://i.postimg.cc/cCFZ1Cfy/Screenshot-2023-07-01-105359.png",
       "github": "https://github.com/ganiefah/javasript-calculator.git",
       "netlify": "https://ganiefah-calculator.netlify.app/"
     },
     {
       "id": 5,
-      "name": "WEBSITE USING HTML AND CSS",
-      "description": "WEBSITE USING HTML AND CSS",
+      "name": "Tester Website",
+      "description": "This is one of the first projects I made. When making it I used HTML, CSS and Bootstrap.",
       "image": "https://i.postimg.cc/3J5QBr68/Screenshot-2023-07-01-101242.png",
       "github": "",
       "netlify": "https://bookstore-javascript-website.netlify.app/"
@@ -43,7 +43,7 @@
     {
       "id": 6,
       "name": "Bootstrap EOMP",
-      "description": "Bootstrap EOMP",
+      "description": "This porfolio was my first ever project which I used HTML, CSS and Bootstrap for.",
       "image": "https://i.postimg.cc/NF9K6GKq/Screenshot-2023-07-01-102650.png",
       "github": "https://github.com/ganiefah/endofmodule.git",
       "netlify": "https://ganiefah-bootstrap-eomp.netlify.app/"
@@ -61,7 +61,7 @@
       "id": 2,
       "name": "Laiquah Cotie",
       "title": "Colleague",
-      "quote": "Ganiefah Majiet is the kindest-hearted and most dedicated woman I've ever met. She consistently manages to uplift the mood in a dark room and always strives to help everyone to the best of her ability. Once her mind is",
+      "quote": "Ganiefah is a hard-worker. She never gives up and applies herself sometimes more than required. Its a pleasure to have her on your team as she is a good team player and works well under pressure. She gets thing done when its required. She has a helpful and jolly personality.",
       "image": "https://i.postimg.cc/cCRNRPLw/C12-Laiquah-Cotie-2.jpg"
     },
     {
@@ -73,14 +73,14 @@
     },
     {
       "id": 4,
-      "name": "Codi Kader",
+      "name": "Nuraan Samodien",
       "title": "Colleague",
       "quote": "Ganiefah excels both in group settings and when working independently. She possesses the remarkable ability to adapt to any environment she finds herself in. Once you get to know her, you experience a genuine sense of belonging, as she welcomes you with warmth and kindness.Ganiefah's personality is wonderfully bubbly, making her a valuable addition to any workplace or business. She demonstrates exceptional proficiency in HTML & CSS. When collaborating with a team, she is the go-to person for assistance, always willing to lend a hand. This willingness to help is an invaluable asset when working in a team.",
-      "image": "https://i.postimg.cc/qBY96pX9/Codi-Kader.jpg"
+      "image": "https://i.postimg.cc/Df5Yz7s1/C12-C2-Nuraan-Samsodien-1.jpg"
     },
     {
       "id": 5,
-      "name": "Mish_al Taliep",
+      "name": "Mish-Al Taliep",
       "title": "Colleague",
       "quote": "What sets Ganiefah apart is not only her professional achievements but also her genuine compassion and empathy towards others. She has an innate ability to connect with people on a deep level and make them feel heard and valued. Her kindness and generosity know no bounds, and she is always willing to lend a helping hand or provide support to those in need. Ganiefah's presence alone has a way of uplifting and inspiring those around her.",
       "image": "https://i.postimg.cc/qBPjp5nm/C12-Mish-Al-Taliep-1.jpg"
@@ -97,20 +97,20 @@
     {
       "id":"1",
       "name": "Rylands High School",
-      "year":"2018 - 2020",
+      "year":"2018-2020",
       "image":"https://i.postimg.cc/TYmyby2X/rylands.png"   
     }, 
     {
       "id":"2",
       "name": "The Settlers High School",
       "year":"2021-2022",
-      "image":"https://i.postimg.cc/vBgb6dY5/settlers.png"
+      "image":"https://i.postimg.cc/c4mZT69v/280632561-10158377300196150-7868863812486401614.jpg"
     },
     {
       "id":"3",
       "name":"Life Choices",
-      "year":"2023- present",
-      "image":"https://i.postimg.cc/02Pwqs8x/Life-Choices-Academy-Logo-G.png"
+      "year":"2023-present",
+      "image":"https://i.postimg.cc/BtWYHnCg/348344976-1450378782372593-6372841202241538959-n.png"
     }
   ],
   "skills": [
