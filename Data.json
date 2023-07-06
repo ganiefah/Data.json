@@ -12,9 +12,9 @@
       "id": 2,
       "name": "Temperature Converter",
       "description": "This project is a temperature converter I made by using Javascript, HTML, CSS and Bootstrap. It converts any number entered into either Fahrenheit or Degress Celsuis.",
-      "image": "https://i.postimg.cc/x8RF0g1d/Screenshot-2023-07-01-095131.png",
+      "image": "https://i.postimg.cc/xdDM8qK1/Screenshot-2023-07-06-141439.png",
       "github": "https://github.com/ganiefah/tempconverter.git",
-      "netlify": "https://i.postimg.cc/v87LC7wH/Screenshot-2023-07-06-140011.png"
+      "netlify": "https://ganiefah-majiet-temp-converter.netlify.app/"
     },
     {
       "id": 3,
