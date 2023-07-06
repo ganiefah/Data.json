@@ -136,6 +136,11 @@
     },
     {
       "id":"5",
+      "name":"Vue",
+      "image":"https://i.postimg.cc/Dz0ssCQz/icons8-vue-js-48.png"     
+    },
+    {
+      "id":"6",
       "name":"Figma",
       "image":"https://i.postimg.cc/T2BRmm9Y/figma.png"     
     }
