@@ -98,51 +98,57 @@
       "id":"1",
       "name": "Rylands High School",
       "year":"2018-2020",
-      "image":"https://i.postimg.cc/TYmyby2X/rylands.png"   
+      "image":"https://i.postimg.cc/zXWDVW5V/rylands-removebg-preview.png"   
     }, 
     {
       "id":"2",
       "name": "The Settlers High School",
       "year":"2021-2022",
-      "image":"https://i.postimg.cc/c4mZT69v/280632561-10158377300196150-7868863812486401614.jpg"
+      "image":"https://i.postimg.cc/G3V685hj/280632561-10158377300196150-7868863812486401614-removebg-preview.png"
     },
     {
       "id":"3",
       "name":"Life Choices",
       "year":"2023-present",
-      "image":"https://i.postimg.cc/BtWYHnCg/348344976-1450378782372593-6372841202241538959-n.png"
+      "image":"https://i.postimg.cc/KvjCRy2j/348344976-1450378782372593-6372841202241538959-n-removebg-preview.png"
     }
   ],
   "skills": [
     {
       "id":"1",
       "name":"HTML",
-      "image":"https://i.postimg.cc/kgVzytYf/html.png"     
+      "image":"https://i.postimg.cc/kgVzytYf/html.png", 
+      "level":"expert"   
     },
     {
       "id":"2",
       "name":"CSS",
-      "image":"https://i.postimg.cc/Hs12VZfY/css-3.png"     
+      "image":"https://i.postimg.cc/Hs12VZfY/css-3.png",
+      "level":"expert"     
     },
     {
       "id":"3",
       "name":"Bootstrap",
-      "image":"https://i.postimg.cc/HxCxQMHy/bootstrap.png"     
+      "image":"https://i.postimg.cc/HxCxQMHy/bootstrap.png",
+      "level":"intermediate"      
     },
     {
       "id":"4",
       "name":"Javascript",
-      "image":"https://i.postimg.cc/L6qp8XFK/js.png"     
+      "image":"https://i.postimg.cc/L6qp8XFK/js.png",
+      "level":"intermediate"       
     },
     {
       "id":"5",
       "name":"Vue",
-      "image":"https://i.postimg.cc/kM2q0BFQ/icons8-vuejs-150.png"     
+      "image":"https://i.postimg.cc/kM2q0BFQ/icons8-vuejs-150.png",
+      "level":"intermediate"      
     },
     {
       "id":"6",
       "name":"Figma",
-      "image":"https://i.postimg.cc/T2BRmm9Y/figma.png"     
+      "image":"https://i.postimg.cc/T2BRmm9Y/figma.png",
+      "level":"intermediate"       
     }
   ],
   "technical":[
